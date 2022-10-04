@@ -22,3 +22,5 @@ class Solution(object):
             curr = curr.next
             
         return False
+
+
