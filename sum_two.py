@@ -13,3 +13,12 @@ class Solution(object):
                 return [hmap[num], i]
             else:
                 hmap[n] = i
+
+
+
+
+
+
+
+
+
